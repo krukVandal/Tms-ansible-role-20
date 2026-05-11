@@ -14,8 +14,12 @@
 
 # Задача 2: 
 
- - Взял для выполнения первую задачу роль для установки и настройки nginx на удаленные машины
+ - Взял для выполнения первую задачу роль для установки и настройки nginx на удаленные машины, один changed вылетает не хочет определять os
  
 <img width="1610" height="850" alt="image" src="https://github.com/user-attachments/assets/095e2d5a-1581-408a-8835-2de55e58d167" />
 |
+<img width="1342" height="912" alt="image" src="https://github.com/user-attachments/assets/eb33826a-b907-4e40-b8a7-9c54af078386" />
+|
+<img width="1353" height="906" alt="image" src="https://github.com/user-attachments/assets/fa109523-b9ad-4597-afbe-16f2f71af968" />
+
 
