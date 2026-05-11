@@ -16,4 +16,6 @@
 
  - Взял для выполнения первую задачу роль для установки и настройки nginx на удаленные машины
  
+<img width="1610" height="850" alt="image" src="https://github.com/user-attachments/assets/095e2d5a-1581-408a-8835-2de55e58d167" />
+|
 
