@@ -12,3 +12,8 @@
 
 <img width="1741" height="952" alt="image" src="https://github.com/user-attachments/assets/431c1f2f-600c-4389-a9a6-154d2284f59e" />
 
+# Задача 2: 
+
+ - Взял для выполнения первую задачу роль для установки и настройки nginx на удаленные машины
+ 
+
